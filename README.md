@@ -34,7 +34,7 @@ Login for Account Google
 
 12 - current remotes = q
 
-**OBS: As configurações podem mudar!
+**OBS: As configurações podem mudar!**
 
 Video de uso: https://www.youtube.com/watch?v=iZ0O0l5AM0Y&feature=youtu.be
 Baseado em: https://www.youtube.com/watch?v=BvLMQMjV9YE&t=123s
