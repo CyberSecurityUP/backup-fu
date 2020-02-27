@@ -1,5 +1,7 @@
 # backup-fu
-Faça backup dos seus dados no Google Drive automaticamente
+Faça backup dos seus dados do Kali Linux no Google Drive automaticamente
+
+Script baseado no Autobackup do Michael LaSalvia que tinha o foco para os estudantes da OSCP, mas melhorei um pouco o script para facilitar a vida de todos!
 
 Inicie primeiramente o **backp.sh** e em seguida o **autobackup.sh**
 Configure da forma apresentada nas instruções
@@ -31,6 +33,8 @@ Login for Account Google
 11 - Yes this is OK = y
 
 12 - current remotes = q
+
+**OBS: As configurações podem mudar!
 
 Video de uso: https://www.youtube.com/watch?v=iZ0O0l5AM0Y&feature=youtu.be
 Baseado em: https://www.youtube.com/watch?v=BvLMQMjV9YE&t=123s
