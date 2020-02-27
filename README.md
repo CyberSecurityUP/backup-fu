@@ -6,6 +6,15 @@ Script baseado no Autobackup do Michael LaSalvia que tinha o foco para os estuda
 Inicie primeiramente o **backp.sh** e em seguida o **autobackup.sh**
 Configure da forma apresentada nas instruções
 
+
+Backup your Kali Linux data to Google Drive automatically
+
+Script based on Michael LaSalvia's Autobackup that was focused on OSCP students, but I improved the script a little to make everyone's life easier!
+
+Start **backp.sh** first and then **autobackup.sh**
+Configure as shown in the instructions
+
+#INSTRUCTIONS
 New Remote = N
 
 1 - name = googledrive
